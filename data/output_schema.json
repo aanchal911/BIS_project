@@ -1,0 +1,20 @@
+[
+  {
+    "id": "q1",
+    "retrieved_standards": [
+      "IS 269:2015",
+      "IS 8112:2013",
+      "IS 12269:2013"
+    ],
+    "latency_seconds": 1.234
+  },
+  {
+    "id": "q2",
+    "retrieved_standards": [
+      "IS 1786:2008",
+      "IS 432:1982",
+      "IS 2062:2011"
+    ],
+    "latency_seconds": 0.987
+  }
+]

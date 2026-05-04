@@ -1,0 +1,29 @@
+# BIS Standards RAG Pipeline – Dependencies
+# Python 3.10+
+
+# Core ML / Vector Search
+faiss-cpu>=1.7.4
+sentence-transformers>=2.7.0
+rank_bm25>=0.2.2
+numpy>=1.26.0
+
+# LangChain ecosystem
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.3
+
+# LLM APIs
+openai>=1.30.0
+
+# PDF parsing
+pdfplumber>=0.11.0
+pypdf>=4.2.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+pandas>=2.2.0
+
+# Optional: local LLM (uncomment if using USE_LOCAL_LLM=True)
+# transformers>=4.40.0
+# torch>=2.2.0

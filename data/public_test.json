@@ -1,0 +1,52 @@
+[
+  {
+    "id": "q1",
+    "query": "What BIS standards apply to Ordinary Portland Cement used in general construction of residential buildings?",
+    "expected_standards": ["IS 269:2015", "IS 8112:2013"]
+  },
+  {
+    "id": "q2",
+    "query": "High-strength deformed steel bars for use in reinforced concrete slabs and columns",
+    "expected_standards": ["IS 1786:2008", "IS 432:1982"]
+  },
+  {
+    "id": "q3",
+    "query": "Coarse and fine aggregates for preparing concrete mix in road and bridge construction",
+    "expected_standards": ["IS 383:2016", "IS 2386:1963"]
+  },
+  {
+    "id": "q4",
+    "query": "Portland Pozzolana Cement using fly ash for marine and hydraulic structures",
+    "expected_standards": ["IS 1489:1991"]
+  },
+  {
+    "id": "q5",
+    "query": "Waterproofing admixture compound to be added to cement concrete for basement slabs",
+    "expected_standards": ["IS 2645:2003"]
+  },
+  {
+    "id": "q6",
+    "query": "Plain and reinforced concrete mix design guidelines for M25 grade concrete",
+    "expected_standards": ["IS 456:2000", "IS 10262:2019"]
+  },
+  {
+    "id": "q7",
+    "query": "Structural steel plates and sections for fabrication of industrial building frames",
+    "expected_standards": ["IS 2062:2011"]
+  },
+  {
+    "id": "q8",
+    "query": "53 Grade Portland cement for high-performance and prestressed concrete elements",
+    "expected_standards": ["IS 12269:2013", "IS 1343:2012"]
+  },
+  {
+    "id": "q9",
+    "query": "Fly ash as a pozzolanic material for use in blended cement and concrete production",
+    "expected_standards": ["IS 3812:2003", "IS 1489:1991"]
+  },
+  {
+    "id": "q10",
+    "query": "Sulphate resistant cement for foundations in sulphate-rich soil conditions",
+    "expected_standards": ["IS 12330:1988"]
+  }
+]
