@@ -20,7 +20,7 @@ An AI-powered RAG (Retrieval-Augmented Generation) pipeline that turns a plain-E
 - [Results](#results)
 - [Dependencies](#dependencies)
 
----
+----
 
 ## Overview
 
